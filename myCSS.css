@@ -5,14 +5,14 @@ body {
 	 font: DejaVu Sans Mono, monospace;
 }
 .homePage {
-	background: #B8E6C2;
+	background: #A9A4F5;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {DejaVu Sans Mono, monospace;
-	background: #B2E6E1;
+	background: #DDA4F5;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -22,7 +22,7 @@ body {
 	
 }
 .nav {
-	background: #B8E6D1;
+	background: #C3A4F5;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -31,14 +31,14 @@ body {
 	text-align: center;
 }
 .content {
-	background: #BEE6B8;
+	background: #A4B9F5;
 	margin: 10px;
 	padding: left;
 	width: 100%;
 	text-align: left;
 }
 .footer {
-	background: #B8DBE6;
+	background: #F5A4EF;
 	margin: 0px;
 	float: left;
 	width: 100%;
